@@ -1,5 +1,6 @@
 console.log("script.js");
 
+// runs when the page finishes loading
 $(document).ready(function () {
   // var myH1 = document.querySelector("h1");
   // myH1.style.color = "deeppink";
