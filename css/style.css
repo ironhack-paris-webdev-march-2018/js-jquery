@@ -1,0 +1,13 @@
+.crazy {
+  color: deeppink;
+  background-color: black;
+  font-size: 40px;
+}
+.orange {
+  color: orange;
+}
+
+li {
+  /* listStyleType */
+  list-style-type: none;
+}
